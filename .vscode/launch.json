@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<sweater>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.sweater.Application",
+            "projectName": "sweater",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

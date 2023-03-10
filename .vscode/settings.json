@@ -1,0 +1,16 @@
+{
+    "git.ignoreLimitWarning": true,
+    "java.compile.nullAnalysis.mode": "automatic",
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "database": "usersdb",
+            "name": "Postgress Local",
+            "username": "postgres",
+            "password": "12345"
+        }
+    ]
+}
